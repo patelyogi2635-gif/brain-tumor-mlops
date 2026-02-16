@@ -1,0 +1,11 @@
+tensorflow
+numpy
+pandas
+matplotlib
+mlflow
+scikit-learn
+pillow
+tqdm
+fastapi
+uvicorn
+boto3
